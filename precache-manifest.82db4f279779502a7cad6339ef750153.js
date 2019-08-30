@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af979e5b99b138a7831cf07f212389f9",
+    "revision": "1f4176ef5540bef1eb00cf8576096109",
     "url": "/jamk-react/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jamk-react/static/css/2.0bf26eff.chunk.css"
   },
   {
-    "revision": "3f44bbbc61bed3d1b46d",
+    "revision": "b5246d2442c49b9642dd",
     "url": "/jamk-react/static/css/main.98bd9c73.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jamk-react/static/js/2.44e5402c.chunk.js"
   },
   {
-    "revision": "3f44bbbc61bed3d1b46d",
-    "url": "/jamk-react/static/js/main.de70c8cb.chunk.js"
+    "revision": "b5246d2442c49b9642dd",
+    "url": "/jamk-react/static/js/main.2a331418.chunk.js"
   },
   {
     "revision": "cb339d1adacbc157ee23",
